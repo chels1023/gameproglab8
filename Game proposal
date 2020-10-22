@@ -1,0 +1,20 @@
+- Game idea
+A spaceship travelling through space trying to avoid aliens, who are shooting lasers at the spaceship. The scrolling world technique would be good in this case because it gives off the illusion that the spaceship is travelling to a destination (however, it can’t reach its destination if it gets hit by the aliens’ lasers).
+
+- Scenario and characters description (include placeholder graphics, drafts, references) 
+There would only be 2 characters: the spaceship and the aliens. The spaceship is the “main character” of the game. The aliens are the villains of the game. The stars aren’t really considered to be characters, they’re more like power ups that will give the player points. 
+
+- Characters’ actions and goals 
+The character’s goal is to reach planet “Jupiter” (they will find it at the end of the game) without having a negative amount of points. 
+
+- Game Win/Lose conditions 
+Everytime an alien shoots a laser at the spaceship and hits the spaceship, the player will lose points. Everytime a player touches a star, the player will gain points. 
+
+- Progression of levels 
+For future levels, I would want more possible obstacles to be added. For example, if the player reaches the second level they might have to deal with aliens and asteroids coming towards them (but the asteroids are more fatal than the aliens; one hit from them and you have to restart the level).
+
+- Sources of inspiration (other games, movies, etc that inspired your idea) 
+There wasn’t anything specific that inspired me. This is the same game proposal that I came up with for our last lab (lab #7). I liked the idea, so I stuck with it. It doesn’t seem too complex to me, but also not too simplistic.
+
+- What skills/interests you are looking for in team mate
+I am looking for someone who can not only code quickly, but also well. I am also looking for someone who is punctual and dedicated/motivated to finishing the project. 
